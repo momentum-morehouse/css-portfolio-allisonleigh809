@@ -1,18 +1,11 @@
-h1, h4, h3, h2, h5{
-  color:cadetblue;
+h3,h4,h1,h5,h6{
+  color:cadetblue
 }
-
-.texttopright{
-  text-align:right
-
-}
-
-.navright{
-  text-align:right
-
-h1{
-  color:cadetblue;
+h3,p,h5,h1,h4,h6{
+  font-family:fantasy;
 }
 
 
-.div
+body{
+  background-color:cornsilk;
+}
