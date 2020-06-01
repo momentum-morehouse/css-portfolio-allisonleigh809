@@ -8,20 +8,18 @@ h3,p,h5,h1,h4,h6,h2{
 
 body{
   background-color:rgba(182, 211, 238, 0.493);
+
 }
 
-p.round1 {
+  .introbox{
+  width: 350px;
+  height: 350px;
   border: 2px solid grey;
-  border-radius: 5px;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  background-color: lightgray;
 }
 
-  .container{
-    width:500px;
-  }
-
-  body2{
-    border-right:5px grey solid;
-    border-left:5px grey solid;
-    border-top:5px grey solid;
-    border-bottom:5px grey solid;
-  }
