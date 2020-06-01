@@ -1,11 +1,27 @@
-h3,h4,h1,h5,h6{
-  color:cadetblue
+h3,h4,h1,h5,h6,p,h2{
+  color:white;
 }
-h3,p,h5,h1,h4,h6{
+h3,p,h5,h1,h4,h6,h2{
   font-family:fantasy;
 }
 
 
 body{
-  background-color:cornsilk;
+  background-color:rgba(182, 211, 238, 0.493);
 }
+
+p.round1 {
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+
+  .container{
+    width:500px;
+  }
+
+  body2{
+    border-right:5px grey solid;
+    border-left:5px grey solid;
+    border-top:5px grey solid;
+    border-bottom:5px grey solid;
+  }
